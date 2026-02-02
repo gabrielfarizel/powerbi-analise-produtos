@@ -64,10 +64,10 @@ O dashboard permite entender a concentração de produtos, o comportamento por c
 ![Análise Produtos](img1.png)
 
 ### Análise de Pedidos
-![Dashboard Pedidos](images/img2.png)
+![Dashboard Pedidos](img2.png)
 
 ### Dashboard com Filtros
-![Dashboard com Filtros](images/img3.png)  
+![Dashboard com Filtros](img3.png) 
 ---
 
 ## 🔗 Acesso ao Projeto
