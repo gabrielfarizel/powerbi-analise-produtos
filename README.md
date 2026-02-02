@@ -72,7 +72,7 @@ O dashboard permite entender a concentração de produtos, o comportamento por c
 
 ## 🔗 Acesso ao Projeto
 
-* **Dashboard Power BI (publicado):** [https://sl1nk.com/Msf4E](https://sl1nk.com/Msf4E)
+* **Dashboard Power BI (publicado):** https://bit.ly/4afm6I3 
 
 ---
 
