@@ -60,8 +60,14 @@ O dashboard permite entender a concentração de produtos, o comportamento por c
 
 ## 📷 Prints do Dashboard
 
-> Adicione aqui imagens do dashboard para visualização rápida
+### Visão Geral
+![Análise Produtos](images/img1.png)
 
+### Análise de Pedidos
+![Dashboard Pedidos](images/img2.png)
+
+### Dashboard com Filtros
+![Dashboard com Filtros](images/img3.png)  
 ---
 
 ## 🔗 Acesso ao Projeto
